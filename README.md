@@ -1,4 +1,4 @@
-
+[<img src="https://user-images.githubusercontent.com/67725607/113097775-2523be00-9215-11eb-9795-e65fd78fa114.gif" width="25"/>]
 
 Hi, I'm Teena 👩💻👋
 
