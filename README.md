@@ -2,7 +2,6 @@
 
 <center> <h2> Hi, I'm Teena 👩💻👋 </h2></center>
 
-<h3>Wanna stalk my website❔👉 Click Here ✨ </a></h3>
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java </li>
   <li>🔭 I’m currently working on ArcGIS Project.</li>
