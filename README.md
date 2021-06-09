@@ -17,6 +17,9 @@ Hi, I'm Teena 👩💻👋
 
 Find me around the web 🌎:
 
-<a href="https://www.linkedin.com/in/teena-thakur-955266176/" class="button big">LinkedIN</a>
+<a href="https://www.linkedin.com/in/teena-thakur-955266176/" class="button big" style="a {
+    color: var(--color-text-link);
+    text-decoration: none;
+}">LinkedIN</a>
 
 Show some ❤️ by starring some of the repositories!
