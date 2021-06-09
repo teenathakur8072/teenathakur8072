@@ -2,7 +2,7 @@
 
 Hi, I'm Teena 👩💻👋
 
-💻 Primary coding language: Java 
+💻 Primary coding language: C, JAVA
 
 🔭 I’m currently working on ArcGIS Pojects.
 
@@ -17,7 +17,6 @@ Hi, I'm Teena 👩💻👋
 
 Find me around the web 🌎:
 
-"https://www.linkedin.com/in/teena-thakur-955266176/" 
-
+<a href="https://www.linkedin.com/in/teena-thakur-955266176/" class="button big">LinkedIN</a>
 
 Show some ❤️ by starring some of the repositories!
