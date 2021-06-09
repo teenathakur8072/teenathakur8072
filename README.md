@@ -17,9 +17,11 @@ Hi, I'm Teena 👩💻👋
 
 Find me around the web 🌎:
 
-<a href="https://www.linkedin.com/in/teena-thakur-955266176/" class="button big" style="a {
-    color: var(--color-text-link);
-    text-decoration: none;
-}">LinkedIN</a>
+<div class="button-group minor-group">
+    <a href="https://www.linkedin.com/in/teena-thakur-955266176/" class="button primary">LinkedIn</a>
+    <a href="#" class="button">Inbox</a>
+    <a href="#" class="button">Account</a>
+    <a href="#" class="button">Logout</a>
+</div>
 
 Show some ❤️ by starring some of the repositories!
