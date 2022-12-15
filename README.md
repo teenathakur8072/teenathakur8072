@@ -5,7 +5,7 @@
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java </li>
   <li>🔭 Worked on Open source Projects.</li>
-  <li>🌱 I’m currently learning Full Stack Development</li>
+  <li>🌱 I’m currently learning new Technologies</li>
   <li>✔️ Goals: To Enhance my Development skills
   <li>⚡ Fun fact: I love to listen Music🎶 Dancing💃
   <li>😄 Pronouns: She/her</li>
