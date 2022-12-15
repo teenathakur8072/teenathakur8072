@@ -4,9 +4,9 @@
 
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java </li>
-  <li>🔭 I’m currently working on ArcGIS Project.</li>
+  <li>🔭 Worked on Open source Projects.</li>
   <li>🌱 I’m currently learning Full Stack Development</li>
-  <li>✔️ 2021 Goals: To Enhance my Development skills
+  <li>✔️ Goals: To Enhance my Development skills
   <li>⚡ Fun fact: I love to listen Music🎶 Dancing💃
   <li>😄 Pronouns: She/her</li>
   </ul>
